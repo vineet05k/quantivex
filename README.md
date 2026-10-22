@@ -2,7 +2,7 @@
 
 **Advancing quantum intelligence through adaptive optimization, hardware-aware analysis, and scientific validation.**
 
-Quantivex is a proprietary, AI-assisted quantum computing platform designed to analyze quantum hardware, optimize qubit selection, simulate noise-aware quantum computations, and generate scientifically verifiable results.
+Quantivex is a proprietary, LLM-assisted quantum computing platform designed to analyze quantum hardware, optimize qubit selection, simulate noise-aware quantum computations, and generate scientifically verifiable results.
 
 <img width="2880" height="1620" alt="quantivex_chip" src="https://github.com/user-attachments/assets/66280b66-cbf9-4a4a-9824-ff6780835101" />
 
