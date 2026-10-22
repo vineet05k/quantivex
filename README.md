@@ -24,6 +24,11 @@ Python · Qiskit · IBM Quantum · Quantum Simulation · Scientific Computing
 
 Quantivex supports quantum chemistry experiments, calibration-driven simulations, and validation of quantum hardware results, with clearly documented computational limitations.
 
+## Research & Demonstration
+
+- **Research Publication:** [Quantivex on Zenodo](https://doi.org/10.5281/zenodo.23573541)
+- **Video Demonstration:** [Watch on YouTube](https://www.youtube.com/watch?v=EEkQmsN1gpI)
+
 ## Intellectual Property & Licensing
 
 **Copyright © 2026 Quantivex. All Rights Reserved.**
