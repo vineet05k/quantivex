@@ -1,0 +1,89 @@
+# QUANTIVEX PROPRIETARY SOURCE LICENSE
+**October 2026**
+
+Copyright © 2026 Quantivex contributors and respective copyright holders.
+
+All rights reserved except as expressly granted herein.
+
+## 1. Scope
+
+This License governs the use of the Quantivex software, including its source code, executable components, algorithms, documentation, and associated materials distributed under this License (collectively, the "Software").
+
+Third-party components and materials are excluded to the extent they are governed by separate licenses.
+
+## 2. Permitted Use
+
+Subject to compliance with this License, the copyright holders grant recipients a limited, non-exclusive, worldwide, royalty-free, non-transferable license to:
+
+- Access and inspect the Software's source code.
+- Download, install, and execute the Software for personal, educational, or non-commercial research purposes.
+- Evaluate and benchmark the Software.
+- Make private modifications solely for permitted non-commercial purposes.
+- Publish independently obtained research findings, provided applicable attribution and third-party obligations are respected.
+
+## 3. Restrictions
+
+Without prior written authorization from the applicable copyright holders, recipients may not:
+
+- Use the Software for commercial production or revenue-generating services.
+- Sell, sublicense, rent, or commercially distribute the Software.
+- Offer the Software or derivatives as a commercial product, hosted service, or API.
+- Publicly redistribute modified versions or substantial portions of the Software.
+- Incorporate the Software into proprietary commercial products.
+- Remove or misrepresent copyright or licensing notices.
+
+## 4. Ownership and Intellectual Property
+
+All ownership, copyright, and other intellectual property rights remain with their respective rights holders.
+
+This License grants limited usage rights and does not transfer ownership.
+
+No trademark rights or patent licenses are granted by this License.
+
+## 5. Commercial Licensing
+
+Commercial use requires a separate written agreement with the appropriate rights holders.
+
+The rights holders may offer commercial licenses, enterprise agreements, hosted services, proprietary extensions, or other commercial arrangements.
+
+## 6. Contributions
+
+Contributors retain ownership of their original contributions unless otherwise agreed in writing.
+
+Submitting a contribution does not automatically transfer ownership or grant exclusive commercial licensing rights to another party.
+
+Contributions may be governed by separate written contributor agreements.
+
+## 7. Third-Party Software and Data
+
+Third-party dependencies, IBM Quantum calibration data, scientific datasets, and other external materials remain subject to their respective licenses and conditions.
+
+This License does not override third-party rights or obligations.
+
+## 8. Future Versions
+
+The rights holders may release future versions under different licensing terms, including proprietary, commercial, or open-source licenses.
+
+Previously granted valid permissions are not automatically revoked by a future licensing change.
+
+## 9. Termination
+
+Rights granted under this License terminate upon a material breach that remains uncured for 30 days after written notice.
+
+Upon termination, the recipient must cease use under this License and remove unauthorized copies, except where retention is legally required.
+
+## 10. Disclaimer of Warranty
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+Scientific predictions, numerical results, and hardware-related analyses should be independently verified before use in consequential applications.
+
+## 11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDERS SHALL NOT BE LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES ARISING FROM USE OF THE SOFTWARE.
+
+## 12. Reservation of Rights
+
+All rights not expressly granted under this License are reserved by their respective rights holders.
+
+**END OF LICENSE**
