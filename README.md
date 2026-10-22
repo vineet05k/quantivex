@@ -6,49 +6,45 @@ Quantivex is a proprietary, AI-assisted quantum computing platform designed to a
 
 <img width="2880" height="1620" alt="quantivex_chip" src="https://github.com/user-attachments/assets/66280b66-cbf9-4a4a-9824-ff6780835101" />
 
-The platform integrates IBM Quantum hardware calibration data, computational optimization, statistical validation, and explainable AI reporting into a unified research and analysis workflow.
+The platform integrates IBM Quantum hardware calibration data, computational optimization, statistical validation, and comprehensive scientific reporting into a unified research and analysis framework.
 
 ## Core Capabilities
 
-- **Hardware-Aware Optimization:** Analyze processor calibration data and identify suitable qubit configurations.
-- **Noise-Aware Simulation:** Evaluate quantum computations under hardware-specific noise models.
-- **Scientific Validation:** Assess computational accuracy using statistical confidence bounds and reproducible numerical methods.
-- **IBM Quantum Integration:** Analyze calibration data and experimental results from supported IBM Quantum processors.
-- **AI-Assisted Analysis:** Generate interpretable scientific reports without delegating numerical calculations to language models.
-- **Reproducible Research:** Produce structured results, integrity checks, visualizations, and traceable execution records.
+- **Quantum Optimization:** Hardware-aware qubit selection and circuit analysis.
+- **Noise-Aware Simulation:** Hardware-calibrated modeling of quantum computations.
+- **Scientific Validation:** Statistical confidence assessment and reproducible results.
+- **Hardware Integration:** IBM Quantum calibration analysis and experimental verification.
+- **Scientific Reporting:** Structured results, visualizations, and traceable computational records.
 
 ## Technology
 
-Python · Qiskit · IBM Quantum · Quantum Simulation · AI-Assisted Analysis · Scientific Computing
+Python · Qiskit · IBM Quantum · Quantum Simulation · Scientific Computing
 
 ## Scientific Scope
 
-Quantivex supports hardware-aware quantum chemistry experiments, calibration-driven simulation, qubit-chain analysis, and validation of real quantum hardware results.
-
-The platform distinguishes simulated predictions from actual hardware measurements and documents the limitations of its statistical and noise models.
+Quantivex supports quantum chemistry experiments, calibration-driven simulations, and validation of quantum hardware results, with clearly documented computational limitations.
 
 ## Intellectual Property & Licensing
 
 **Copyright © 2026 Quantivex. All Rights Reserved.**
 
-Quantivex is proprietary technology. All applicable intellectual property, patent, copyright, and commercial rights are reserved by their respective legal rights holders.
+Quantivex is proprietary technology. All intellectual property, patent, and commercial rights are reserved by their respective legal rights holders.
 
-No permission is granted to use, execute, reproduce, modify, distribute, sublicense, or commercially exploit the software without prior written authorization.
+Unauthorized use, reproduction, modification, redistribution, or commercialization is prohibited.
 
-Public availability of this repository does not constitute a license or authorization to use the software.
-
-See [LICENSE](LICENSE) for the complete terms.
+See [LICENSE](LICENSE) for complete terms.
 
 ## Contributions
 
-External contributions are not accepted without prior written authorization.
-
-Any approved contribution is subject to a separate written agreement governing intellectual property ownership and licensing.
+External contributions require prior written authorization and an appropriate intellectual property agreement.
 
 ## Disclaimer
 
-Quantivex is provided "AS IS", without warranties of any kind. Scientific and computational results should be independently validated before consequential use.
+The software is provided "AS IS", without warranties of any kind. Scientific results should be independently verified.
 
+---
+
+**Quantivex — Engineering Intelligence for Quantum Computing.**
 ---
 
 **Quantivex — Engineering Intelligence for Quantum Computing.**
