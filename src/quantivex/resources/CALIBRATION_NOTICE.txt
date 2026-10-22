@@ -1,0 +1,5 @@
+Historical IBM Torino calibration parameters from FakeTorino in Qiskit IBM Runtime 0.50.0.
+Upstream: https://github.com/Qiskit/qiskit-ibm-runtime/tree/0.50.0/qiskit_ibm_runtime/fake_provider/backends/torino
+Apache License 2.0; see IBM_RUNTIME_LICENSE.txt. Exported/reduced to Quantivex schema by quantivex.ibm_import.
+Directions are collapsed using minimum error, and durations are medians. Calibration: 2025-02-26.
+This is historical data used for local simulation, not an IBM endorsement or a present-day performance guarantee.

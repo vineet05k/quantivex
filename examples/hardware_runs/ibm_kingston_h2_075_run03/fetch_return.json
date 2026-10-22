@@ -1,0 +1,257 @@
+{
+  "actual_shots_per_group": [
+    1000,
+    1000,
+    1000,
+    1000,
+    1000
+  ],
+  "backend": "ibm_kingston",
+  "counts": [
+    {
+      "0000": 55,
+      "0001": 77,
+      "0010": 76,
+      "0011": 51,
+      "0100": 68,
+      "0101": 50,
+      "0110": 59,
+      "0111": 66,
+      "1000": 74,
+      "1001": 58,
+      "1010": 54,
+      "1011": 62,
+      "1100": 65,
+      "1101": 67,
+      "1110": 71,
+      "1111": 47
+    },
+    {
+      "0000": 46,
+      "0001": 78,
+      "0010": 72,
+      "0011": 48,
+      "0100": 77,
+      "0101": 57,
+      "0110": 41,
+      "0111": 58,
+      "1000": 108,
+      "1001": 38,
+      "1010": 57,
+      "1011": 67,
+      "1100": 56,
+      "1101": 70,
+      "1110": 89,
+      "1111": 38
+    },
+    {
+      "0000": 53,
+      "0001": 68,
+      "0010": 83,
+      "0011": 48,
+      "0100": 66,
+      "0101": 42,
+      "0110": 59,
+      "0111": 61,
+      "1000": 69,
+      "1001": 53,
+      "1010": 49,
+      "1011": 87,
+      "1100": 51,
+      "1101": 84,
+      "1110": 74,
+      "1111": 53
+    },
+    {
+      "0000": 39,
+      "0001": 92,
+      "0010": 82,
+      "0011": 61,
+      "0100": 60,
+      "0101": 52,
+      "0110": 60,
+      "0111": 72,
+      "1000": 67,
+      "1001": 55,
+      "1010": 53,
+      "1011": 74,
+      "1100": 50,
+      "1101": 75,
+      "1110": 73,
+      "1111": 35
+    },
+    {
+      "0000": 21,
+      "0001": 14,
+      "0010": 1,
+      "0011": 1,
+      "0100": 16,
+      "0101": 880,
+      "0110": 21,
+      "0111": 6,
+      "1000": 1,
+      "1001": 1,
+      "1010": 14,
+      "1011": 1,
+      "1100": 13,
+      "1101": 9,
+      "1111": 1
+    }
+  ],
+  "energy_hartree": -1.0315450803608492,
+  "error_vs_small_model_hartree": 0.10557198698488146,
+  "execution": "ibm_qpu",
+  "instance": "REDACTED_PUBLIC_INSTANCE",
+  "job_id": "PUBLIC_JOB_07",
+  "plan_sha256": "6a75a9eddb7695fc947f162fac2ad2cb5642c389e8ddfc69461592f39d64a463",
+  "publication_metadata": [
+    {
+      "circuit_metadata": {
+        "quantivex_context_sha256": "01f26e54dd48a8d08b80bc8ebc816bdc817164d2cdda92efa8c0f269c83f181e",
+        "quantivex_group_sha256": "928dd83a54ca2ebc69bdd085bfbf701c58b0315190a6d46ee524b7b694f000b1"
+      },
+      "compilation": {
+        "scheduler_timing": null,
+        "stretch_values": null
+      }
+    },
+    {
+      "circuit_metadata": {
+        "quantivex_context_sha256": "01f26e54dd48a8d08b80bc8ebc816bdc817164d2cdda92efa8c0f269c83f181e",
+        "quantivex_group_sha256": "620b5dea4313c1e7b3213bedfd8b4cf34c24b8a918ebffdf4884884cfac399c1"
+      },
+      "compilation": {
+        "scheduler_timing": null,
+        "stretch_values": null
+      }
+    },
+    {
+      "circuit_metadata": {
+        "quantivex_context_sha256": "01f26e54dd48a8d08b80bc8ebc816bdc817164d2cdda92efa8c0f269c83f181e",
+        "quantivex_group_sha256": "8c086c2cfc2d4a7dbd0dd8e14d2bc84a78ac059a41f9a759d10111fa9aa52acc"
+      },
+      "compilation": {
+        "scheduler_timing": null,
+        "stretch_values": null
+      }
+    },
+    {
+      "circuit_metadata": {
+        "quantivex_context_sha256": "01f26e54dd48a8d08b80bc8ebc816bdc817164d2cdda92efa8c0f269c83f181e",
+        "quantivex_group_sha256": "896effd88ab344aef9f9e41f15faaa0b8043c6dd512dd275dd4e1f3817bc4c63"
+      },
+      "compilation": {
+        "scheduler_timing": null,
+        "stretch_values": null
+      }
+    },
+    {
+      "circuit_metadata": {
+        "quantivex_context_sha256": "01f26e54dd48a8d08b80bc8ebc816bdc817164d2cdda92efa8c0f269c83f181e",
+        "quantivex_group_sha256": "dd3321d58f18b309d7e22b5d88d80496b8130afc0acd16638603822cdf755634"
+      },
+      "compilation": {
+        "scheduler_timing": null,
+        "stretch_values": null
+      }
+    }
+  ],
+  "readout_mitigation": false,
+  "reference_energy_hartree": -1.1371170673457307,
+  "retrieved_at": "2026-10-20T07:53:32.908839+00:00",
+  "runtime_job_metrics": {
+    "caller": "qiskit_ibm_runtime~sampler.py",
+    "circuits_execution_time_ns": 1314772992,
+    "qiskit_version": "qiskit_ibm_runtime-0.50.0,qiskit-2.6.0*,qiskit_aer-0.17.2*",
+    "timestamps": {
+      "created": "2026-10-20T07:42:33.593596Z",
+      "finished": "2026-10-20T07:42:40.218323Z",
+      "running": "2026-10-20T07:42:35.443988Z"
+    },
+    "usage": {
+      "details": [
+        {
+          "metric": {
+            "id": "caffe3ca-729c-5750-8777-df63bbf8bfd9",
+            "value": 4
+          },
+          "unit": "resource_units",
+          "value": 0.050414
+        }
+      ],
+      "qpu_charge_time_seconds": 4,
+      "status": "complete",
+      "unit": "resource_units",
+      "value": 0.050414
+    }
+  },
+  "runtime_metadata": {
+    "execution": {
+      "execution_spans": {
+        "__type__": "ExecutionSpans",
+        "__value__": {
+          "spans": [
+            {
+              "__type__": "DoubleSliceSpan",
+              "__value__": {
+                "data_slices": {
+                  "0": [
+                    [
+                      1000
+                    ],
+                    0,
+                    1,
+                    0,
+                    1000
+                  ],
+                  "1": [
+                    [
+                      1000
+                    ],
+                    0,
+                    1,
+                    0,
+                    1000
+                  ],
+                  "2": [
+                    [
+                      1000
+                    ],
+                    0,
+                    1,
+                    0,
+                    1000
+                  ],
+                  "3": [
+                    [
+                      1000
+                    ],
+                    0,
+                    1,
+                    0,
+                    1000
+                  ],
+                  "4": [
+                    [
+                      1000
+                    ],
+                    0,
+                    1,
+                    0,
+                    1000
+                  ]
+                },
+                "start": "2026-10-20T07:42:36.890483",
+                "stop": "2026-10-20T07:42:39.105099"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "version": 2
+  },
+  "sampling_confidence_radius_95_hartree": 0.12131153308542966,
+  "sampling_stderr_hartree": 0.011878718398643616,
+  "uncertainty_scope": "shot sampling only, including within-group covariance; excludes bias/drift"
+}

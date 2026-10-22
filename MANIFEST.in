@@ -1,0 +1,9 @@
+include launch_gui.py README.md CHANGELOG.md CONTRIBUTING.md SECURITY.md LICENSE Dockerfile
+recursive-include tests *.py
+recursive-include examples *.json *.csv *.qpy *.txt *.md
+recursive-include scripts *.py
+recursive-include docs *.md *.json *.png
+recursive-include src/quantivex/resources *.json *.json.gz
+
+recursive-include third_party *.txt
+
