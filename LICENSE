@@ -1,39 +1,21 @@
-# QUANTIVEX PROPRIETARY LICENSE
+MIT License
 
-Copyright © 2026 Quantivex. All Rights Reserved.
+Copyright (c) 2026 Quantivex contributors
 
-## 1. Ownership & Intellectual Property
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-All rights, title, and interest in Quantivex, including its original source code, algorithms, architecture, documentation, and associated intellectual property, remain exclusively with their respective legal rights holders.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-All patent, trademark, copyright, and commercial rights are expressly reserved.
-
-## 2. No Permission Granted
-
-No license or permission is granted to any third party to use, execute, reproduce, modify, distribute, sublicense, or commercially exploit the Software or its derivatives without prior written authorization from the applicable rights holders.
-
-Public availability of the source code does not constitute authorization for its use.
-
-## 3. Commercialization & Patent Rights
-
-Quantivex is intended for future corporate incorporation, proprietary commercialization, and potential patent protection.
-
-All rights to pursue patent applications, commercial licensing, enterprise deployment, and proprietary development are reserved by the respective rights holders.
-
-No patent rights are granted under this License.
-
-## 4. Third-Party Materials
-
-Third-party software, dependencies, and datasets remain governed by their respective licenses and applicable terms.
-
-## 5. Disclaimer
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
-
-TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE RIGHTS HOLDERS DISCLAIM LIABILITY ARISING FROM ITS USE.
-
-## 6. Reservation of Rights
-
-All rights not expressly granted are reserved. Any future licensing arrangements require separate written authorization.
-
-**END OF LICENSE**
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

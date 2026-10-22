@@ -1,0 +1,192 @@
+{
+  "label": "SYNTHETIC 16-qubit grid demonstration",
+  "provenance": "Generated random values; not IBM hardware measurements",
+  "qubits": [
+    {
+      "id": 0,
+      "readout_error": 0.04849
+    },
+    {
+      "id": 1,
+      "readout_error": 0.04755
+    },
+    {
+      "id": 2,
+      "readout_error": 0.07105
+    },
+    {
+      "id": 3,
+      "readout_error": 0.07428
+    },
+    {
+      "id": 4,
+      "readout_error": 0.03577
+    },
+    {
+      "id": 5,
+      "readout_error": 0.05269
+    },
+    {
+      "id": 6,
+      "readout_error": 0.05891
+    },
+    {
+      "id": 7,
+      "readout_error": 0.06617
+    },
+    {
+      "id": 8,
+      "readout_error": 0.08592
+    },
+    {
+      "id": 9,
+      "readout_error": 0.06901
+    },
+    {
+      "id": 10,
+      "readout_error": 0.07966
+    },
+    {
+      "id": 11,
+      "readout_error": 0.06239
+    },
+    {
+      "id": 12,
+      "readout_error": 0.02963
+    },
+    {
+      "id": 13,
+      "readout_error": 0.03144
+    },
+    {
+      "id": 14,
+      "readout_error": 0.00855
+    },
+    {
+      "id": 15,
+      "readout_error": 0.0493
+    }
+  ],
+  "edges": [
+    {
+      "source": 0,
+      "target": 1,
+      "gate_error": 0.01529
+    },
+    {
+      "source": 0,
+      "target": 4,
+      "gate_error": 0.02358
+    },
+    {
+      "source": 1,
+      "target": 2,
+      "gate_error": 0.01473
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "gate_error": 0.00547
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "gate_error": 0.05494
+    },
+    {
+      "source": 2,
+      "target": 6,
+      "gate_error": 0.02605
+    },
+    {
+      "source": 3,
+      "target": 7,
+      "gate_error": 0.04745
+    },
+    {
+      "source": 4,
+      "target": 5,
+      "gate_error": 0.06384
+    },
+    {
+      "source": 4,
+      "target": 8,
+      "gate_error": 0.02387
+    },
+    {
+      "source": 5,
+      "target": 6,
+      "gate_error": 0.04254
+    },
+    {
+      "source": 5,
+      "target": 9,
+      "gate_error": 0.01335
+    },
+    {
+      "source": 6,
+      "target": 7,
+      "gate_error": 0.01263
+    },
+    {
+      "source": 6,
+      "target": 10,
+      "gate_error": 0.0506
+    },
+    {
+      "source": 7,
+      "target": 11,
+      "gate_error": 0.01053
+    },
+    {
+      "source": 8,
+      "target": 9,
+      "gate_error": 0.06921
+    },
+    {
+      "source": 8,
+      "target": 12,
+      "gate_error": 0.0215
+    },
+    {
+      "source": 9,
+      "target": 10,
+      "gate_error": 0.06209
+    },
+    {
+      "source": 9,
+      "target": 13,
+      "gate_error": 0.06772
+    },
+    {
+      "source": 10,
+      "target": 11,
+      "gate_error": 0.00966
+    },
+    {
+      "source": 10,
+      "target": 14,
+      "gate_error": 0.031
+    },
+    {
+      "source": 11,
+      "target": 15,
+      "gate_error": 0.03719
+    },
+    {
+      "source": 12,
+      "target": 13,
+      "gate_error": 0.02008
+    },
+    {
+      "source": 13,
+      "target": 14,
+      "gate_error": 0.02139
+    },
+    {
+      "source": 14,
+      "target": 15,
+      "gate_error": 0.03049
+    }
+  ]
+}
