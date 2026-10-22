@@ -45,6 +45,3 @@ The software is provided "AS IS", without warranties of any kind. Scientific res
 ---
 
 **Quantivex — Engineering Intelligence for Quantum Computing.**
----
-
-**Quantivex — Engineering Intelligence for Quantum Computing.**
